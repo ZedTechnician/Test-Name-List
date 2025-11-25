@@ -1,4 +1,5 @@
 {
-  "TestValueA": 27,
-  "TestValueB": 555
+  "TestValueA": "27",
+  "TestValueB": "555"
 }
+
