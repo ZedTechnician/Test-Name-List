@@ -1,8 +1,8 @@
-[
-    {
+{
         "TestValueA": 27,
     },
     {
         "TestValueB": 555
     }
-]
+}
+
